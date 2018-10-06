@@ -5,27 +5,30 @@
 			"background" : "background1.png",
 			"speakername" : "Person A",
 			"speakerimage" : "person_a_normal.png",
-      "fadeAfter" : false,
+      			"fadeAfter" : false,
 			"sfxToPlay" : "",
-			"musicToPlay" : "music1.mp3"
+			"musicToPlay" : "music1.mp3",
+			"useTts" : false
 		},
 		{
 			"message" : "And I am Person B !",
 			"background" : "background1.png",
 			"speakername" : "Person B",
 			"speakerimage" : "person_b_normal.png",
-      "fadeAfter" : false,
+      			"fadeAfter" : false,
 			"sfxToPlay" : "",
-			"musicToPlay" : ""
+			"musicToPlay" : "",
+			"useTts" : false
 		},
 		{
 			"message" : "Welcome to our story!",
 			"background" : "background1.png",
 			"speakername" : "Person B",
 			"speakerimage" : "person_b_happy.png",
-      "fadeAfter" : false,
+      			"fadeAfter" : false,
 			"sfxToPlay" : "",
-			"musicToPlay" : "-1"
+			"musicToPlay" : "-1",
+			"useTts" : false
 		}
 		
 		
