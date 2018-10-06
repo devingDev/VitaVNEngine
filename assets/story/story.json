@@ -1,0 +1,34 @@
+{
+	"story" : [
+		{
+			"message" : "Hi! I'm Person A!",
+			"background" : "background1.png",
+			"speakername" : "Person A",
+			"speakerimage" : "person_a_normal.png",
+      "fadeAfter" : false,
+			"sfxToPlay" : "",
+			"musicToPlay" : "music1.mp3"
+		},
+		{
+			"message" : "And I am Person B !",
+			"background" : "background1.png",
+			"speakername" : "Person B",
+			"speakerimage" : "person_b_normal.png",
+      "fadeAfter" : false,
+			"sfxToPlay" : "",
+			"musicToPlay" : ""
+		},
+		{
+			"message" : "Welcome to our story!",
+			"background" : "background1.png",
+			"speakername" : "Person B",
+			"speakerimage" : "person_b_happy.png",
+      "fadeAfter" : false,
+			"sfxToPlay" : "",
+			"musicToPlay" : "-1"
+		}
+		
+		
+	]
+
+}
